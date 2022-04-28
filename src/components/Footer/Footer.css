@@ -1,0 +1,20 @@
+.information{
+    display: row;
+    text-align: center;
+    
+}
+.home{
+    color: #ffa07a;
+}
+.grammar{
+    color: #ffe4b5;
+}
+.general{
+    color:#ffc0cb;
+}
+.follow{
+    color: #c0c0c0;
+}
+.footer{
+    color:#9acd32;
+}

@@ -1,0 +1,22 @@
+.header{
+    color: #ff7f50;
+}
+.paragraph{
+    color:green;
+}
+.home{
+    color: #ffa07a;
+}
+.info-container{
+    display:grid;
+    grid-template-columns: repeat(3 , 1fr);
+    grid-gap:10px ;
+    border:3px solid goldenrod;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px;
+    width: 600px;
+}
+.what-is{
+    color: brown;
+}
